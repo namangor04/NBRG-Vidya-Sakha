@@ -14,10 +14,8 @@ Welcome to the official Github page of Vidya-Sakha. Here, you can file issuses o
 *	Constant App Updates will be provided to enhance the user experience.
 *	If you encounter any **bugs, problems, crashes, issues**, just mail us at [nbrgdevelopers@gmail.com](mailto:nbrgdevelopers@gmail.com) and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a simple bug by swiping from left on home screen and seleting "Report Bug" option as below**
 
-![Report Bug In-App](https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png "Report Bug In-App")
-
 <img
-src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" data-canonical-src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" width="200" height="400"/>
+src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" data-canonical-src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" width="400" height="800"/>
 
 ***Here's what the App provides to its Users:-***
 
@@ -33,17 +31,22 @@ src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/report
   *	Users can message students in the classroom and students can ask doubts to teachers in the classroom itself, making it a private chatroom for each classroom.
   *	Students/Teachers can attach pictures, documents as per their needs to make understand better.
 
+## Important For User-Privacy:
+### The use of Google's Admob Ad Service results in collection of some data which is not collected by us, but is collected by Google Admob to provide you with better ads. Our App only collects minimal data that it needs for operating safely. You can read about what data of yours does our app collect by clicking [here](https://nbrgdevelopers.wixsite.com/website/vid-sak-faqs).
+
 *Stuff For Curious People:*
 
 * The App Has Google-Sign In Method For Signing In
 * The App uses [Firebase](https://firebase.google.com/) as a Backend.
-* The privacy policy can be [read here](https://nbrgdevelopers.wixsite.com/website/about).
-* The Terms & Conditions can be [read here](https://nbrgdevelopers.wixsite.com/website/about-1).
-* This app is being launched under my own Company namely **NBRG Developers**, whose website can be found [here](https://nbrgdevelopers.wixsite.com/website).
+* The privacy policy can be [read here](https://nbrgdevelopers.wixsite.com/website/vid-sak-privacy-policy).
+* The Terms & Conditions can be [read here](https://nbrgdevelopers.wixsite.com/website/vid-sak-terms-os).
+* Our website can be found [here](https://nbrgdevelopers.wixsite.com/website).
+* Vidya-Sakha has its own page too, you can visit it by clicking [here](https://nbrgdevelopers.wixsite.com/website/vidya-sakha-app).
 * Also, you can visit the Play Store page of **NBRG Developers** by clicking [here](https://play.google.com/store/apps/dev?id=6170079703674466665).
-* Vidya-Sakha has its own page too, you can visit it by clicking [here](https://nbrgdevelopers.wixsite.com/website/vidya-sakha).
 * The Vidya-Sakha App is available to download for **free** on Google Play Store. You can visit [this link](https://play.google.com/store/apps/details?id=com.nbrgdevelopers.android.apps.vidya_sakha) to download it!
-* I have started working on the iOS version of Vidya-Sakha App.
-* The App serves Ads to its users using [Google AdMob](https://admob.google.com/home/).
+* An iOS version may be possible given enough popularity. Though currently, there are no plans for an iOS version and we do not have an official iOS App.
+* The App serves Ads to its users using [Google AdMob](https://admob.google.com/home/) who has its own privacy policy about how it collects user-data..
 * The support email for the app is nbrgdevelopers@gmail.com.
 * Also, you can find the **NBRG Developers** YouTube Channel [here](https://www.youtube.com/channel/UCCQRwtPDKRZUbDiWVtMuujQ).
+
+## ©Vidya-Sakha by NBRG Developers.
