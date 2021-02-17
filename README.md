@@ -14,7 +14,7 @@ Welcome to the official Github page of Vidya-Sakha. Here, you can file issuses o
 *	Constant App Updates will be provided to enhance the user experience.
 *	If you encounter any **bugs, problems, crashes, issues**, just mail us at [nbrgdevelopers@gmail.com](mailto:nbrgdevelopers@gmail.com) and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a simple bug by swiping from left on home screen and seleting "Report Bug" option as below**
 
-![Report Bug In-App](https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png =1000*1000 "Report Bug In-App")
+![Report Bug In-App](https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png "Report Bug In-App" =1000*1000)
 
 ***Here's what the App provides to its Users:-***
 
