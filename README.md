@@ -1,6 +1,8 @@
-# Vidya-Sakha is a One-Stop Educational Platform.
+# Vidya-Sakha - A One-Stop Educational Platform.
 
-Hello and welcome to the official Github page of Vidya-Sakha. Here, you can file issuses or provide suggestions (assuming you have a Github Account) . **Vidya-Sakha** is an Android App which provides **A Platform For Teachers To Teach And Students To Learn.**
+Welcome to the official Github page of Vidya-Sakha. Here, you can file issuses or provide suggestions (assuming you have a Github Account) . 
+
+**Vidya-Sakha** is an Android App which provides **A Platform For Teachers To Teach And Students To Learn.**
 
 ***Some highlights:***
 
@@ -10,9 +12,9 @@ Hello and welcome to the official Github page of Vidya-Sakha. Here, you can file
 *	The app provides **Secure Sign-In By Google.**
 *	If you dont want ads, It provides premium subscriptions too ! **(At a very Low Price)**
 *	Constant App Updates will be provided to enhance the user experience.
-*	If you encounter any **bugs, problems, crashes, issues**, just mail us at nbrgdevelopers@gmail.com and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a bug by swiping from left on home screen and seleting "Report Bug" option as below**
+*	If you encounter any **bugs, problems, crashes, issues**, just mail us at [nbrgdevelopers@gmail.com](mailto:nbrgdevelopers@gmail.com) and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a simple bug by swiping from left on home screen and seleting "Report Bug" option as below**
 
-![Report Bug In-App](https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png "Report Bug In-App")
+![Report Bug In-App](https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png =1000*1000 "Report Bug In-App")
 
 ***Here's what the App provides to its Users:-***
 
