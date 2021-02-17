@@ -1,6 +1,6 @@
-Hello and welcome to the official Github page of Vidya-Sakha. Here, you can file issuses or provide suggestions (assuming you have a Github Account) . **Vidya-Sakha** is an Android App which provides **A Platform For Teachers To Teach And Students To Learn.**
+# Vidya-Sakha is a One-Stop Educational Platform.
 
-**Vidya-Sakha is a One-Stop Educational Platform.**
+Hello and welcome to the official Github page of Vidya-Sakha. Here, you can file issuses or provide suggestions (assuming you have a Github Account) . **Vidya-Sakha** is an Android App which provides **A Platform For Teachers To Teach And Students To Learn.**
 
 ***Some highlights:***
 
