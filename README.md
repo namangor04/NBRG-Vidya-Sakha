@@ -12,7 +12,7 @@ Welcome to the official Github page of Vidya-Sakha. Here, you can file issuses o
 *	The app provides **Secure Sign-In By Google.**
 *	If you dont want ads, It provides premium subscriptions too ! **(At a very Low Price)**
 *	Constant App Updates will be provided to enhance the user experience.
-*	If you encounter any **bugs, problems, crashes, issues**, just mail us at [nbrgdevelopers@gmail.com](mailto:nbrgdevelopers@gmail.com) and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a simple bug by swiping from left on home screen and seleting "Report Bug" option as below**
+*	If you encounter any **bugs, problems, crashes, issues**, just mail us at [nbrgdevelopers@gmail.com](mailto:nbrgdevelopers@gmail.com) and include information such as **App Version, Android Version, Manufacturer of your Device, And the where the problem occurs in the App along with a description of what the problem is. (If you dont know all these informations, you can simply report a simple bug by swiping from left on home screen and seleting "Report Bug" option as below!)**
 
 <img
 src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" data-canonical-src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/reportBug.png" width="400" height="800"/>
@@ -37,7 +37,6 @@ src="https://github.com/nbrgdevelopers/NBRG-Vidya-Sakha/raw/master/images/report
 *Stuff For Curious People:*
 
 * The App Has Google-Sign In Method For Signing In
-* The App uses [Firebase](https://firebase.google.com/) as a Backend.
 * The privacy policy can be [read here](https://nbrgdevelopers.wixsite.com/website/vid-sak-privacy-policy).
 * The Terms & Conditions can be [read here](https://nbrgdevelopers.wixsite.com/website/vid-sak-terms-os).
 * Our website can be found [here](https://nbrgdevelopers.wixsite.com/website).
